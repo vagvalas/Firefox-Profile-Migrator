@@ -18,13 +18,17 @@ have some inconsistencies,
 
 Backup - Restore or just copy.
 
+For backup navigate to your %APPDATA% folder and backup it to a safe destination
+
 1. Just select the Source and it will automatically search which files are there and can be copied. Have some sub-files for categories that has more than one, but i think we need all..
 2. Choose the dest folder.
 3. Hit GO
 4. Proof!
 
-For backup navigate to your %APPDATA% folder and backup it to a safe destination
+
+
 For Restoring backup, as it's not straightforward with the buttons.
+
 1. You can choose the exported folder as Source
 2. And choose the Destination for %APPDATA%, so to overwrite the data and (restore your old one)
 
