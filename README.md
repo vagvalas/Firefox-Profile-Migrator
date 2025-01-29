@@ -42,7 +42,7 @@ For that reason also wrote to python for cross-platform. My original though was 
 
 # Things to do
 ## Sure: Check all toggle to toggle all files
-## Auto-Detect intalled profiles (maybe only for windows) , and choosing which to backup
+## Auto-Detect installed profiles (maybe only for windows) , and choosing which to backup
 ## An option for zipping. ( i don't know for un-zipping), do it yourself :P
 
 Feel free to help me out with pull requests.
