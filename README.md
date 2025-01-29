@@ -1,5 +1,5 @@
-# Firefox-Profile-Migrator
-Backup-Copy-Restore Firefox's profile data
+# Firefox Profile Migrator
+Backup Copy and Restore Firefox's profile data
 
 
 # Purpose
